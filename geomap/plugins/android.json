@@ -1,0 +1,24 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "br.aguado.geomap"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "br.aguado.geomap"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "br.aguado.geomap"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "br.aguado.geomap"
+        }
+    },
+    "dependent_plugins": {}
+}
